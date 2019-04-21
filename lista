@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BABY TV***" tvg-name="BABY TV" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="Infantis",BABY TV
-http://streamtv.com.br:80/malek/malek/1662
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1662
 #EXTINF:-1 tvg-id="BOOMERANG***" tvg-name="BOOMERANG" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantis",BOOMERANG
-http://streamtv.com.br:80/malek/malek/1656
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1656
 #EXTINF:-1 tvg-id="BOOMERANG HD***" tvg-name="BOOMERANG HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantis",BOOMERANG HD
-http://streamtv.com.br:80/malek/malek/223
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/223
 #EXTINF:-1 tvg-id="CARTOON NETWORK***" tvg-name="CARTOON NETWORK" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantis",CARTOON NETWORK
-http://streamtv.com.br:80/malek/malek/1652
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1652
 #EXTINF:-1 tvg-id="CARTOON NETWORK HD***" tvg-name="CARTOON NETWORK HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantis",CARTOON NETWORK HD
-http://streamtv.com.br:80/malek/malek/220
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/220
 #EXTINF:-1 tvg-id="DISCOVERY KIDS***" tvg-name="DISCOVERY KIDS" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantis",DISCOVERY KIDS
-http://streamtv.com.br:80/malek/malek/1644
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1644
 #EXTINF:-1 tvg-id="DISCOVERY KIDS HD***" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantis",DISCOVERY KIDS HD
-http://streamtv.com.br:80/malek/malek/212
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/212
 #EXTINF:-1 tvg-id="DISNEY CHANNEL***" tvg-name="DISNEY CHANNEL" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantis",DISNEY CHANNEL
-http://streamtv.com.br:80/malek/malek/1639
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1639
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD***" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantis",DISNEY CHANNEL HD
-http://streamtv.com.br:80/malek/malek/207
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/207
 #EXTINF:-1 tvg-id="DISNEY JUNIOR***" tvg-name="DISNEY JR HD" tvg-logo="http://printv.esy.es/server/Disney%20J%C3%BAnior%20HD.png" group-title="Infantis",DISNEY JR HD
-http://streamtv.com.br:80/malek/malek/234
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/234
 #EXTINF:-1 tvg-id="DISNEY JUNIOR***" tvg-name="DISNEY JUNIOR" tvg-logo="http://printv.esy.es/server/Disney%20J%C3%BAnior%20HD.png" group-title="Infantis",DISNEY JUNIOR
-http://streamtv.com.br:80/malek/malek/1638
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1638
 #EXTINF:-1 tvg-id="DISNEY XD***" tvg-name="DISNEY XD" tvg-logo="http://printv.esy.es/server/Disney%20XD.png" group-title="Infantis",DISNEY XD
-http://streamtv.com.br:80/malek/malek/1637
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1637
 #EXTINF:-1 tvg-id="GLOOB***" tvg-name="GLOOB" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantis",GLOOB
-http://streamtv.com.br:80/malek/malek/1603
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1603
 #EXTINF:-1 tvg-id="GLOOB HD***" tvg-name="GLOOB HD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantis",GLOOB HD
-http://streamtv.com.br:80/malek/malek/176
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/176
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantis",NAT GEO KIDS
-http://streamtv.com.br:80/malek/malek/1580
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1580
 #EXTINF:-1 tvg-id="NAT GEO KIDS HD***" tvg-name="NAT GEO KIDS HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantis",NAT GEO KIDS HD
-http://streamtv.com.br:80/malek/malek/155
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/155
 #EXTINF:-1 tvg-id="NICK JR***" tvg-name="NICK JR" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Infantis",NICK JR
-http://streamtv.com.br:80/malek/malek/1577
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1577
 #EXTINF:-1 tvg-id="NICK JR HD***" tvg-name="NICK JR HD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Infantis",NICK JR HD
-http://streamtv.com.br:80/malek/malek/153
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/153
 #EXTINF:-1 tvg-id="NICKELODEON***" tvg-name="NICKELODEN" tvg-logo="http://printv.esy.es/server/Nick%20HD.png" group-title="Infantis",NICKELODEN
-http://streamtv.com.br:80/malek/malek/1576
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1576
 #EXTINF:-1 tvg-id="NICKELODEON HD***" tvg-name="NICKELODEON HD" tvg-logo="http://printv.esy.es/server/Nick%20HD.png" group-title="Infantis",NICKELODEON HD
-http://streamtv.com.br:80/malek/malek/152
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/152
 #EXTINF:-1 tvg-id="TOONCAST***" tvg-name="TOONCAST" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="Infantis",TOONCAST
-http://streamtv.com.br:80/malek/malek/1538
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1538
 #EXTINF:-1 tvg-id="TV RA TIM BUM***" tvg-name="TV RA TIM BUM" tvg-logo="TV RA TIM BUM HD" group-title="Infantis",TV RA TIM BUM
-http://streamtv.com.br:80/malek/malek/1531
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1531
 #EXTINF:-1 tvg-id="TV RA TIM BUM***" tvg-name="TV RA TIM BUM HD" tvg-logo="http://printv.esy.es/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="Infantis",TV RA TIM BUM HD
-http://streamtv.com.br:80/malek/malek/119
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/119
